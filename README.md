@@ -1,2 +1,0 @@
-# shoshosho
-将棋
